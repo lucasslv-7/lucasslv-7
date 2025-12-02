@@ -7,9 +7,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="springboot logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
